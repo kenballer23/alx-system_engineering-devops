@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo chown vincent:_hello /path/to/_hello
